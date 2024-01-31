@@ -1,0 +1,69 @@
+header {
+    background-color: #00ffff;
+    width: 100%;
+    height: 150px;        
+            }        
+footer {
+      background-color: #ff66ff;
+      width: 100%;
+      height: 250px;
+            }
+table {
+      width: 100%
+            }
+#een{
+    background-color: #ffff88;
+    color: black;
+            }               
+#twee{
+    background-color: #ccff88;
+            }
+#drie{
+   background-color: #99ff88;
+   color: gray;
+            }
+ #vier{
+    background-color: #cccc88;
+            }
+#vijf{
+    background-color: #33ff88;
+    color: beige;
+            }
+#zes{
+    background-color: #996688;
+            }
+#zeven{
+    background-color: #663388;
+            }
+#acht{
+    background-color: #889988;
+    color: blueviolet;
+            }
+#negen{
+    background-color: #ff9988;
+    color: chocolate;
+            }
+#tien{
+    background-color: #ff3366;
+            }
+#elf{
+    background-color: #33cc33;
+    color: brown;
+            }
+#twaalf{
+    background-color: #333366;
+            }
+#dertien{
+    background-color: #33ffcc;
+    color: darkgreen;
+            }
+#veertien{
+    background-color: #cc3399;
+            }
+#vijftien{
+    background-color: #ff88ff;
+    color: darkred;
+            }
+#zestien{
+    background-color: #8866ff;
+            }          
